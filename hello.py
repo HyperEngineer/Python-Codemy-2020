@@ -1,8 +1,15 @@
+##############################
+# Learn Python Coding in 2020
+# By John Elder
+# Codemy.com
+##############################
+
+
 # clear the terminal screen
 import os
 os.system('clear')
 
-############################
+##############################
 # DATA TYPES
 # Strings
 # Numbers
@@ -10,7 +17,7 @@ os.system('clear')
 # Tuples
 # Dictionaries
 # Boolean
-
+##############################
 
 first_name = 'Dennis'
 age = 70
